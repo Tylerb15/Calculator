@@ -15,6 +15,6 @@ function calculate(){
     display.value = eval(display.value)
     }
     catch(error){
-        display.value = "Error"
+        display.value = "Error" //wow u can code on here. this is from my phone lol.
     }
 }
